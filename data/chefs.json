@@ -1,0 +1,284 @@
+[
+  {
+      "_id": "01",
+      "chef_picture": "https://i.ibb.co/sgzdP8W/1.jpg",
+      "chef_name": "Bobby Flay",
+      "years_of_experience": "5 years",
+      "numbers_of_recipes": "10",
+      "bio": "Bobby Flay is a celebrity chef and restaurateur. He is known for his bold, flavorful recipes and his competitive spirit, both in and out of the kitchen.",
+      "likes": "200",
+      "recipes": [
+          {
+            "name": "Pesto Pasta",
+            "ingredients": [
+              "1 lb pasta",
+              "2 cups fresh basil leaves",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 cup olive oil",
+              "1/4 cup pine nuts"
+            ],
+            "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
+            "rating": 4.5
+          },
+          {
+            "name": "Roasted Chicken",
+            "ingredients": [
+              "1 whole chicken, about 4 lbs",
+              "2 tbsp unsalted butter, melted",
+              "2 tbsp olive oil",
+              "1 tsp dried rosemary",
+              "1 tsp garlic powder"
+            ],
+            "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
+            "rating": 4.8
+          },
+          {
+            "name": "Fish and Chips",
+            "ingredients": [
+              "1 lb cod fillets",
+              "1 cup all-purpose flour",
+              "1 teaspoon salt",
+              "2 large potatoes, cut into fries",
+              "Vegetable oil for frying"
+            ],
+            "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
+            "rating": 4.2
+          }
+      ]
+  },
+  {
+      "_id": "02",
+      "chef_picture": "https://i.ibb.co/Sy5WDYN/3.jpg",
+      "chef_name": "Nigella Lawson",
+      "years_of_experience": "6 years",
+      "numbers_of_recipes": "12",
+      "bio": "Nigella Lawson is a chef, cookbook author, and television personality. She is known for her indulgent, comforting recipes and her warm, engaging personality.",
+      "likes": "550",
+      "recipes": [
+          {
+            "name": "Beef Wellington",
+            "ingredients": [
+              "1 lb beef tenderloin",
+              "2 cups sliced mushrooms",
+              "1/2 cup chopped shallots",
+              "1 tbsp Dijon mustard",
+              "1 egg, beaten"
+            ],
+            "cooking_method": "Wrap beef tenderloin in puff pastry with mushroom duxelles, and bake until golden brown and cooked to desired temperature",
+            "rating": 4.9
+          },
+          {
+            "name": "Scrambled Eggs",
+            "ingredients": [
+              "4 eggs",
+              "1/4 cup milk",
+              "1 tbsp unsalted butter",
+              "Salt and pepper to taste",
+              "Chopped chives"
+            ],
+            "cooking_method": "Whisk eggs with salt, pepper, and butter, and cook over low heat until soft and creamy",
+            "rating": 4.7
+          },
+          {
+            "name": "Shepherd's Pie",
+            "ingredients": [
+              "2 lbs ground beef",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "2 tbsp all-purpose flour",
+              "2 tbsp tomato paste"
+            ],
+            "cooking_method": "Cook ground lamb with vegetables and seasonings, top with mashed potatoes, and bake until golden brown and bubbly",
+            "rating": 4.5
+          }
+        ]
+  },
+  {
+      "_id": "03",
+      "chef_picture": "https://i.ibb.co/SmKbQ35/4.jpg",
+      "chef_name": "Anthony Bourdain",
+      "years_of_experience": "3 years",
+      "numbers_of_recipes": "11",
+      "bio": "Anthony Bourdain was a chef, author, and television personality. He was known for his love of international cuisine and his fearless approach to trying new foods.",
+      "likes": "180",
+      "recipes": [
+          {
+            "name": "Parmesan Chicken",
+            "ingredients": [
+              "4 boneless, skinless chicken breasts",
+              "1 cup seasoned breadcrumbs",
+              "1/2 cup grated Parmesan cheese",
+              "1/4 cup all-purpose flour",
+              "1 tsp garlic powder"
+            ],
+            "cooking_method": "Coat chicken in a mixture of Parmesan cheese, breadcrumbs, and herbs, and bake until crispy and golden brown",
+            "rating": 4.6
+          },
+          {
+            "name": "Beef Bourguignon",
+            "ingredients": [
+              "3 lbs beef chuck roast, cubed",
+              "6 slices bacon, chopped",
+              "2 cups red wine",
+              "2 cups beef broth",
+              "1 lb pearl onions, peeled"
+            ],
+            "cooking_method": "Cook beef stew meat with vegetables, bacon, and red wine until tender and flavorful",
+            "rating": 4.8
+          },
+          {
+            "name": "Carrot Cake",
+            "ingredients": [
+              "2 cups all-purpose flour",
+              "2 tsp baking powder",
+              "1 tsp ground cinnamon",
+              "1/2 tsp salt",
+              "4 large eggs"
+            ],
+            "cooking_method": "Mix grated carrots with flour, sugar, eggs, and spices, bake until fluffy and moist, and top with cream cheese frosting",
+            "rating": 4.9
+          }
+      ]
+  },
+  {
+      "_id": "04",
+      "chef_picture": "https://i.ibb.co/R9pmtfQ/5.jpg",
+      "chef_name": "Gena Bernard",
+      "years_of_experience": "4 years",
+      "numbers_of_recipes": "9",
+      "bio": "Gena Bernard, also known as the Barefoot Contessa, is a chef and cookbook author. She is known for her simple, elegant recipes and her warm, welcoming personality.",
+      "likes": "420",
+      "recipes": [
+          {
+            "name": "Pho",
+            "ingredients": [
+              "2 lbs beef bones",
+              "1 onion, sliced",
+              "4-inch piece ginger, sliced",
+              "2 cinnamon sticks",
+              "4 star anise"
+            ],
+            "cooking_method": "Simmer beef bones, spices, and aromatics for several hours to make a flavorful broth, and serve with rice noodles, herbs, and beef slices",
+            "rating": 4.9
+          },
+          {
+            "name": "Cacio e Pepe",
+            "ingredients": [
+              "1 lb spaghetti",
+              "1 cup grated Pecorino Romano cheese",
+              "1/2 cup grated Parmesan cheese",
+              "4 tbsp unsalted butter",
+              "2 tsp freshly ground black pepper"
+            ],
+            "cooking_method": "Cook spaghetti in salted water until al dente, and toss with butter, grated cheese, and black pepper",
+            "rating": 4.6
+          },
+          {
+            "name": "Banh Mi",
+            "ingredients": [
+              "4 French baguettes",
+              "1 lb pork tenderloin, sliced",
+              "1/2 cup soy sauce",
+              "2 tablespoons honey",
+              "1 tablespoon rice vinegar"
+            ],
+            "cooking_method": "Assemble a sandwich with a French baguette, marinated pork, pickled vegetables, herbs, and sriracha mayo",
+            "rating": 4.4
+          }
+      ]
+  },
+  {
+      "_id": "05",
+      "chef_picture": "https://i.ibb.co/0Kpg8Yh/7.jpg",
+      "chef_name": "Gordon Ramsay",
+      "years_of_experience": "3 years",
+      "numbers_of_recipes": "7",
+      "bio": "Gordon Ramsay is a Michelin-starred chef and television personality. He is known for his high standards and his fiery personality, both in and out of the kitchen.",
+      "likes": "150",
+      "recipes": [
+          {
+            "name": "Linguine with Clams",
+            "ingredients": [
+              "1 lb linguine",
+              "3 dozen littleneck clams",
+              "4 cloves garlic, minced",
+              "1/2 cup white wine",
+              "1/4 cup olive oil"
+            ],
+            "cooking_method": "Cook linguine until al dente, sauté garlic and clams in olive oil, and toss with pasta and parsley",
+            "rating": 4.7
+          },
+          {
+            "name": "Chocolate Brownies",
+            "ingredients": [
+              "Chocolate",
+              "Butter",
+              "Eggs",
+              "Sugar",
+              "Whipped Cream"
+            ],
+            "cooking_method": "Melt chocolate and butter, mix with sugar, eggs, and flour, and bake until fudgy and delicious",
+            "rating": 4.9
+          },
+          {
+            "name": "Chicken and Pea Risotto",
+            "ingredients": [
+              "4 cups chicken broth",
+              "2 tablespoons butter",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 cup frozen peas"
+            ],
+            "cooking_method": "Sauté onions and rice, add chicken broth and white wine, and stir in cooked chicken and peas until creamy",
+            "rating": 4.4
+          }
+        ]
+  },
+  {
+      "_id": "06",
+      "chef_picture": "https://i.ibb.co/1Gkpv2Y/6.jpg",
+      "chef_name": "Jamie Oliver",
+      "years_of_experience": "4 years",
+      "numbers_of_recipes": "14",
+      "bio": "Jamie Oliver is a celebrity chef and restaurateur. He is known for his approachable, down-to-earth style and his focus on using fresh, local ingredients.",
+      "likes": "500",
+      "recipes": [
+          {
+            "name": "Pesto Pasta",
+            "ingredients": [
+              "1 lb pasta",
+              "2 cups fresh basil leaves",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 cup olive oil",
+              "1/4 cup pine nuts"
+            ],
+            "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
+            "rating": 4.5
+          },
+          {
+              "name": "Banh Mi",
+              "ingredients": [
+                "4 French baguettes",
+                "1 lb pork tenderloin, sliced",
+                "1/2 cup soy sauce",
+                "2 tablespoons honey",
+                "1 tablespoon rice vinegar"
+              ],
+              "cooking_method": "Assemble a sandwich with a French baguette, marinated pork, pickled vegetables, herbs, and sriracha mayo",
+              "rating": 4.4
+          },
+          {
+            "name": "Fish and Chips",
+            "ingredients": [
+              "1 lb cod fillets",
+              "1 cup all-purpose flour",
+              "1 teaspoon salt",
+              "2 large potatoes, cut into fries",
+              "Vegetable oil for frying"
+            ],
+            "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
+            "rating": 4.2
+          }
+        ]
+  }
+]
