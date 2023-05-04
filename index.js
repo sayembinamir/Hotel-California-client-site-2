@@ -14,8 +14,10 @@ app.get('/chefrecipes', (req, res) => {
     res.send(chefrecipes);
 })
 
-    const id = req.params.id;
+   
+    
 app.get('/chefrecipes/:id', (req, res) => {
+    const id = req.params.id;
     const selectedChef = chefrecipes.find(c =>c._id === id);
     res.send(selectedChef);
 })
